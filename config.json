@@ -1,0 +1,8 @@
+{
+    "task": {
+        "normal": {
+            "src": "./example/normal/index.js",
+            "dest": "./example/normal/dest"
+        }
+    }
+}
